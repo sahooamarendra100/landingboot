@@ -4,30 +4,15 @@
 body{
     background-color:#eeeeee !important;
 }
-
-.pos{
-    position: fixed;
-}
-.bar{
+.mailsecn{
     padding-top: 3cm;
-}
-.b{
-    margin-right: 3.2cm;
-}
-.fotter{
-    background-color:blue;
 }
 .icon-color{
     color: orange;
 }
-.he{
-    height: 20px;
-    width: 20px;
-}
-.containerr{
-    border:1px solid;
-}
-.c{
+
+
+.fotter-body{
     background: #d6d6d6;
 }
 .d{
